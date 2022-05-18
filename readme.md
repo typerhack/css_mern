@@ -21,3 +21,5 @@ This package makes it possible to run both react and server on one terminal.
 This package helps us to change the color of the text in the console.
 
 ## Learn more about create-react-app : https://create-react-app.dev/
+
+## Read more about adding sass to react: https://create-react-app.dev/docs/adding-a-sass-stylesheet/
