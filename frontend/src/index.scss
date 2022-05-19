@@ -1,6 +1,10 @@
-@import "./styles//base/colors";
 @import "./styles/base/base";
 @import "./styles/base/animations";
-@import "./styles//component/btnHeader.scss";
-@import "./styles/layout/header.scss";
+@import "./styles//component/button";
+@import "./styles/layout/header";
 @import "./styles/base/typography";
+@import "./styles/layout/grid";
+@import "./styles/component/section";
+@import "./styles/base/utilities";
+@import "./styles/component/composition";
+@import "./styles/component/feature-box";
