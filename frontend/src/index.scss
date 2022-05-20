@@ -1,11 +1,19 @@
-@import "./styles/base/base";
 @import "./styles/base/animations";
-@import "./styles//component/button";
-@import "./styles/layout/header";
+@import "./styles/base/base";
 @import "./styles/base/typography";
-@import "./styles/layout/grid";
-@import "./styles/component/section";
 @import "./styles/base/utilities";
+
+@import "./styles/component/bg-video";
+@import "./styles//component/button";
+@import "./styles/component/cards";
 @import "./styles/component/composition";
 @import "./styles/component/feature-box";
-@import "./styles/component/cards";
+@import "./styles/component/section";
+@import "./styles/component/story";
+
+@import "./styles/layout/header";
+@import "./styles/layout/grid";
+
+
+
+

@@ -3,6 +3,7 @@ import Grid from "./components/grid";
 import AboutUs from "./components/aboutUs";
 import Features from "./components/features";
 import Tours from "./components/tours";
+import Stories from "./components/stories";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <AboutUs />
         <Features />
         <Tours />
+        <Stories />
       </main>
     </>
   );

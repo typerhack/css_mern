@@ -17,6 +17,11 @@ function btnHeader(props) {
         </a>
       );
       break;
+    case "text":
+      return(
+        <a href="#" className="btn-text">{props.btnText}</a>
+      );
+      break;
 
     default:
       return(<p> Button type is not specified</p>);

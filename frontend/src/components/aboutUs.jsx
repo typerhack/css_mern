@@ -1,4 +1,5 @@
 import React from "react";
+import BtnHeader from "./btnHeader";
 
 import nat1 from "../img/nat-1-large.jpg";
 import nat2 from "../img/nat-2-large.jpg";
@@ -32,7 +33,7 @@ function aboutUs() {
             eaque tempora, iusto harum quos tempore tenetur iste sed debitis
             mollitia nesciunt!
           </p>
-          <a href="#" className="btn-text">Load more &rarr;</a>
+          <BtnHeader btnText="Load more &rarr;" btnType="text" />
         </div>
         <div className="col-1-of-2">
           <div className="composition">
