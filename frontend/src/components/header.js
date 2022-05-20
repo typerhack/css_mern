@@ -13,7 +13,7 @@ function header() {
           <span className="heading-primary--main">outdoors</span>
           <span className="heading-primary--sub">is where life happens</span>
         </h1>
-        <BtnHeader btnText="Discover Our Tours" />
+        <BtnHeader btnText="Discover Our Tours" btnType="white" />
       </div>
     </header>
   );

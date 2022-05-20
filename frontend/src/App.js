@@ -2,6 +2,7 @@ import Header from "./components/header";
 import Grid from "./components/grid";
 import AboutUs from "./components/aboutUs";
 import Features from "./components/features";
+import Tours from "./components/tours";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <main>
         <AboutUs />
         <Features />
+        <Tours />
       </main>
     </>
   );
