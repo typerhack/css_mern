@@ -22,7 +22,14 @@ function btnHeader(props) {
         <a href="#" className="btn-text">{props.btnText}</a>
       );
       break;
-
+    case "formbtn":
+      return(
+        <button className="btn btn--green">
+          {props.btnText}
+        </button>
+      );
+      break;
+    
     default:
       return(<p> Button type is not specified</p>);
       break;
